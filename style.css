@@ -1,2 +1,3 @@
-.p1{align-content: center}
-.ul{align-content: right}
+.p1{float: right;}
+.ul{float: right}
+.h1{background-color: yellow}
